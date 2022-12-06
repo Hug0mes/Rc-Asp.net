@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ef_2
+build_property.RootNamespace = ef_2
+build_property.ProjectDir = C:\Users\2005h\Desktop\Git_Projects\Rc-Asp.net\db_ef_ex\WebApplication1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\2005h\Desktop\Git_Projects\Rc-Asp.net\db_ef_ex\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/ListaDT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xMaXN0YURULmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/ListaSOP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xMaXN0YVNPUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Artigos/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWdvc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Categorias/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Fabricantes/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2005h/Desktop/Git_Projects/Rc-Asp.net/db_ef_ex/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
